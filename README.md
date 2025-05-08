@@ -73,8 +73,13 @@ pip install -r requirements.txt
 
 4. Configure suas credenciais:
 
-Substitua # do arquivo /.streamlit/secrets.toml **(Remova o caracter (#) inicial e o (#) último da key abaixo)** antes de substituir no arquivo:
+Substitua # do arquivo /.streamlit/secrets.toml  pelo código abaixo
 
+Mas antes, faça:
+
+**(Remova o caracter (#) inicial e o (#) segundo da key abaixo)** antes de substituir no arquivo:
+
+(OpenAI não permite salvar keys no github).
 
 ```
 #s#k-proj-rJ7Q8FbkjD1M3vphEZB_M2lG5FDObzDJvcXvSMqoWrzO_j02pZqvQYTDOhOYZc15EDWjx7UYkAT3BlbkFJ6y365c1ltK-UucyEYhCML0c0TzZwodSam7n5RWZCwSHwp89fuPyHzH7ZC2X66ulEQ6sreEr-MA

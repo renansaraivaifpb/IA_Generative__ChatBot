@@ -17,6 +17,14 @@ O Chat de Norma é um assistente virtual inteligente especializado em normas té
 
 ---
 
+## Visual do ChatBot
+
+Veja a implementação rodando em localhost:
+
+![Tela do Chat Bot no Streamlit]([caminho/para/imagem.extensao](https://raw.githubusercontent.com/renansaraivaifpb/IA_Generative__ChatBot/refs/heads/main/Chat.png))
+
+---
+
 ## Funcionalidades
 
 1. Indexação automática de documentos PDF

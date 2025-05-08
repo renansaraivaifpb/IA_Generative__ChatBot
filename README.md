@@ -90,4 +90,10 @@ Substitua # do arquivo /.streamlit/secrets.toml **(Remova o caracter (#) inicial
 streamlit run CaseB.py
 ```
 
+Ou exectur o arquivo normalmente:
+
+```
+python run_App.py
+```
+
 3. Acesse http://localhost:8501 no seu navegador

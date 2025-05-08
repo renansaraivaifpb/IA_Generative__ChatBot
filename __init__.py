@@ -15,4 +15,4 @@ __email__ = "renan.saraiva@academico.ifpb.edu.br"
 # Exportações públicas
 from .document_indexer import DocumentIndexer
 from .chat_assistant import ChatAssistant
-from .app import NormaGPTApp
+from .CaseB import NormaGPTApp

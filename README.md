@@ -19,7 +19,8 @@ O Chat de Norma é um assistente virtual inteligente especializado em normas té
 
 ## Visual do ChatBot
 
-Veja a implementação rodando em localhost:
+Veja a implementação rodando em localhost.
+Na imagem abaixo, está sendo feito perguntas como O que o Chat Bot é e uma pergunta especifica das normas que a SAE fez para o desenvolvimento de veículo off-Road.
 
 ![Tela do Chat Bot no Streamlit](https://raw.githubusercontent.com/renansaraivaifpb/IA_Generative__ChatBot/refs/heads/main/Chat.png)
 

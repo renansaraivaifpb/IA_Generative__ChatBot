@@ -50,11 +50,10 @@ O Chat de Norma é um assistente virtual inteligente especializado em normas té
 Conta na OpenAI com chave API válida
 
 ### Passo a Passo
-1. Clone o repositório:
+1. Clone o repositório (ou baixe diretamente nesse link: (https://github.com/renansaraivaifpb/IA_Generative__ChatBot)
 
 ```
-git clone https://github.com/seu-usuario/normagpt.git
-cd normagpt
+git clone https://github.com/renansaraivaifpb/IA_Generative__ChatBot.git
 ```
 
 2. Crie e ative um ambiente virtual: (opcional)
